@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
 .container {
     padding: 160px 0px;
 }
 
 .main__box>h1 {
-    font-family: var(--font-family-default);
-    ;
+    font-family: 'Poppins', sans-serif;
+
     font-style: normal;
     font-weight: 800;
     font-size: 48px;
@@ -14,7 +18,8 @@
 }
 
 .span_main {
-    font-family: var(--font-family-default);
+    font-family: 'Poppins', sans-serif;
+
     ;
     font-style: normal;
     font-weight: normal;

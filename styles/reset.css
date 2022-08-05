@@ -59,7 +59,8 @@ ul {
        */
 
 html {
-    font-family: var(--font-family-default);
+    font-family: 'Poppins', sans-serif;
+
     /* 1 */
     line-height: 1.5;
     /* 2 */
@@ -216,7 +217,8 @@ textarea {
 
 input,
 textarea {
-    font-family: var(--font-family-default);
+    font-family: 'Poppins', sans-serif;
+
     /* 1 */
 }
 
